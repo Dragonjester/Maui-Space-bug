@@ -1,5 +1,7 @@
 # Reproduction project repository
 
+Link to the issue: https://github.com/dotnet/maui/issues/16139
+
 Steps to reproduce the error:
 1. Start VS 
 2. Select to create a new Project
